@@ -4,13 +4,3 @@
 
 
 
-
-Situation:
-
-Task:
-
-Action:
-
-Result:
-
-
